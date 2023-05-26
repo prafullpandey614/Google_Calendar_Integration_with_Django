@@ -2,6 +2,12 @@
 
 ## [Click to how this Application works](#application-snapshots)
 
+## Tech Stack :
+1. Django
+2. Django-rest-framework
+3. Google Oauth 2.0 
+4. Google APIs for Calendar
+
 ## Steps to run this Project
 1. Clone this repository
 2. Create a virtual environment
