@@ -22,4 +22,9 @@
 ## Why we need ngrok to be installed ?
 To use Google OAuth for accessing the Google APIs we need a secure http connection and for that we need to attach an ssl certificate to our application but for development phase django doesn't support ==https== that's why we need ngrok to be installed . It basically creates a Tunnel forwarding to localhost:8000 with over https
 
-## Application Snapshots
+## Application Video 
+
+https://github.com/prafullpandey614/Google_Calendar_Integration_with_Django/assets/81959129/12f28c43-107a-467a-a6ee-5c5e5719c212
+
+
+
