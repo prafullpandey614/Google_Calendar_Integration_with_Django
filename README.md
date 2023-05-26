@@ -10,7 +10,7 @@
 4. Install ngrok  [Why](#why-we-need-ngrok-to-be-installed)
 5. After Successfull intallation of ngrok run the command `ngrok http 8000` 
 6. Start the server by running `python manage.py runserver`
-7. Now instead of using `https://localhost:8000' use the ==Forwarding Url== from the ngrok console
+7. Now instead of using `https://localhost:8000' use the <mark>Forwarding Url</mark> from the ngrok console
 8. Now you can use the endpoints successfully
 
 ## Why we need ngrok to be installed ?
