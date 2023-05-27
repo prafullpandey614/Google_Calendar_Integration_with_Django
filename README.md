@@ -1,6 +1,6 @@
 # Google Calendar API Integration to List all the events of an User
 
-## [Click to how this Application works](#application-snapshots)
+## [Click to See how this Application works](#application-snapshots)
 
 ## Tech Stack :
 1. Django
@@ -25,6 +25,4 @@ To use Google OAuth for accessing the Google APIs we need a secure http connecti
 ## Application Video 
 
 https://github.com/prafullpandey614/Google_Calendar_Integration_with_Django/assets/81959129/12f28c43-107a-467a-a6ee-5c5e5719c212
-
-
 
