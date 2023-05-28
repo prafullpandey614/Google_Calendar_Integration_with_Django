@@ -40,5 +40,5 @@ class GoogleCalendarRedirectView(APIView):
         service = build('calendar', 'v3', credentials=credentials)
         events_result = service.events().list(calendarId='primary', maxResults=10).execute()
         events = events_result.get('items', [])
-        # Process the events as per your requirement
+        
         return Response({'events': events})
